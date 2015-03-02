@@ -1,2 +1,2 @@
 # example
-example GitHub repository for SIMSAM-infra
+This is an example GitHub repository for SIMSAM-infra. Take a look around!
